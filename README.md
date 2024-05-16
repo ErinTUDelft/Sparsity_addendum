@@ -1,2 +1,6 @@
 # Sparsity_addendum
-Additional information supplementing the paper XX
+## Interactive Flame Graph
+
+![Flame Graph](path/to/your/image.svg)
+
+You can hover over the individual elements in the flame graph to see more details.
